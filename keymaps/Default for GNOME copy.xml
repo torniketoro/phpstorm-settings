@@ -1,0 +1,7 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+</keymap>
